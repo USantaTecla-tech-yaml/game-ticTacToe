@@ -1,0 +1,27 @@
+[
+   {
+      "put": "X",
+      "to": {
+         "row": 0,
+         "column": 0
+      }
+   },
+   {
+      "put": "O",
+      "to": {
+         "row": 0,
+         "column": 1
+      }
+   },
+   {
+      "move": "X",
+      "from": {
+         "row": 2,
+         "column": 0
+      },
+      "to": {
+         "row": 1,
+         "column": 1
+      }
+   }
+]
